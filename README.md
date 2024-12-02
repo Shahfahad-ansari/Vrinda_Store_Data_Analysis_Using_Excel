@@ -1,6 +1,6 @@
 # Vrinda Store Data Analysis Using Excel
 
-📍[Download the dataset from here](https://raw.githubusercontent.com/Shahfahad-ansari/Vrinda_Store_Data_Analysis_Using_Excel/main/Vrinda%20Store%20Data%20Analysis.xlsx)
+📍Download the [dataset](https://1drv.ms/x/c/b39d72593c7e5975/EQ3d_1H6SmpPkZGQzeBIo0EBJ6Vp3igjA-a6J9LdnG8KBw?e=OnWdoO) from here.
 
 📍[Download the complete report from here](https://raw.githubusercontent.com/Shahfahad-ansari/Vrinda_Store_Data_Analysis_Using_Excel/main/Vrinda%20Store%20Data%20Analysis.xlsx)
 
