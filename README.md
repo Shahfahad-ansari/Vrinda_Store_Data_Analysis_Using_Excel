@@ -1,8 +1,9 @@
 # Vrinda Store Data Analysis Using Excel
 
-📍[Download the dataset from here](Vrinda%20Store%20Data%20Analysis.xlsx).  
+📍[Download the dataset from here](./Vrinda%20Store%20Data%20Analysis.xlsx)
 
-📍[Download the complete report from here](#).  
+📍[Download the complete report from here](./Vrinda%20Store%20Data%20Analysis.xlsx)
+ 
 
 ### Objective  
 Vrinda Store aims to analyze its sales data to uncover key insights and trends from 2023. The goal is to understand customer behavior and identify strategies to drive more sales in 2024. This project involves creating a detailed analysis using Excel to present actionable insights.  
