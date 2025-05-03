@@ -16,4 +16,4 @@ Vrinda Store aims to analyze its sales data to uncover key insights and trends f
 ### Final Recommendations to Improve Sales  
 - Focus marketing efforts on women aged 25–45, specifically in top-performing states like Maharashtra, Tamil Nadu, and Gujarat.  
 - Leverage popular platforms like Amazon and Flipkart by offering exclusive deals, discounts, and targeted advertisements.  
-- Explore opportunities to expand into similar customer demographics in underperforming states.  
+- Explore opportunities to expand into similar customer demographics in underperforming states.
